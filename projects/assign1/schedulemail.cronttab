@@ -1,0 +1,6 @@
+
+
+59 7 19 1 * ~/projects/assign1/myspammer.sh | mail -s 'test' -r 'davidwcr@usc.edu' yunkunp@usc.edu
+
+
+
